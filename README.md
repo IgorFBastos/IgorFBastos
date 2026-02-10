@@ -3,7 +3,6 @@
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de **Engenharia da Computação**.
 - 🚀 Atualmente trabalhando como **Desenvolvedor Frontend**.
-- 🧠 Iniciando estudos em **Visão Computacional** com **Python**.
 
 ---
 
