@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de **Engenharia da Computação**.
-- 🚀 Atualmente trabalhando como **Desenvolvedor Frontend**.
+- 🚀 Atualmente trabalhando como **Desenvolvedor Fullstack**.
 
 ---
 
